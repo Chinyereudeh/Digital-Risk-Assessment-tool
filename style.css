@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+header, footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 15px;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+#results {
+  background: #fff3cd;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+#ethics {
+  background: #e2f0d9;
+  padding: 15px;
+  border-radius: 8px;
+}
+
